@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Mike McBride. I'm a Software Engineer and a musician. Outside of coding, I enjoy music and audio production, spending time with my family, and constructing electrical devices! I have a strong interest in and actively employ AI technologies to help develop business solutions. I firmly believe that staying at the forefront of these exciting new technologies is crucial for our society to comprehend their potential dangers and the ways in which it can contribute to progress of our civilization.
+My name is Mike McBride. I'm a Software Engineer and a musician. Outside of coding, I enjoy music and audio production, spending time with my family, and constructing electrical devices! I have a strong interest in and actively employ AI technologies to help develop business solutions. I firmly believe that staying at the forefront of these exciting new technologies is crucial for our society to comprehend their potential dangers and the ways in which they can contribute to progress of our civilization.
 
 [![Gmail Badge](https://img.shields.io/badge/-michaelmcbride85@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:michaelmcbride85@gmail.com)](mailto:michaelmcbride85@gmail.com)
 [![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://mmcbreezy.github.io/portfolio-page/)
