@@ -34,6 +34,8 @@ My name is Mike McBride. I'm a Software Engineer and a musician. Outside of codi
 ![Edx](https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+![Codewars](https://www.codewars.com/users/mmcbreezy/badges/micro)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
