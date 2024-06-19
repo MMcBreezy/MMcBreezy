@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Mike and I like to tinker with technology. 👨‍💻
+My name is Mike and I like to learn and tinker with technology. 👨‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-michaelmcbride85@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:michaelmcbride85@gmail.com)](mailto:michaelmcbride85@gmail.com)
 [![portfolio](https://img.shields.io/badge/Personal_Portfolio-231F20?style=for-the-badge&logo=buffer&logoColor=white)](https://mmcbreezy.github.io/portfolio-page/)
